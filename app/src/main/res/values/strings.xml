@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gridview App</string>
+    <string name="title">Images in a Gridview</string>
+</resources>
